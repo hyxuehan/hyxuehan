@@ -44,4 +44,4 @@ if __name__ == '__main__':
     folderpath = folderpath.replace('\\', '/')
     copy_folder(r'F:\1')
 print('完成')
-    # print(filepath)
+    print(filepath)
